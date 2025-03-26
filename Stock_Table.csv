@@ -1,0 +1,16 @@
+stock_id,length_m,breadth_m,height_m,shade,pattern,grain,moles,hollows
+S001,2.4,1.12,1.2,Black,Veined,Coarse,Many,Visible
+S002,2.26,1.2,1.2,Beige,Marbled,Coarse,Many,None
+S003,2.73,1.68,1.25,Brown,Wavy,Coarse,Many,Visible
+S004,2.16,1.21,1.44,Beige,Speckled,Coarse,Few,Visible
+S005,3.22,1.44,1.3,Dark Gray,Speckled,Coarse,Few,Minor
+S006,3.53,1.53,1.13,Light Gray,Wavy,Fine,Many,None
+S007,2.11,1.74,1.38,Light Gray,Wavy,Medium,Many,Minor
+S008,3.52,1.64,1.2,Black,Marbled,Medium,Few,Minor
+S009,3.13,1.28,1.37,Black,Veined,Fine,Few,Minor
+S010,2.66,1.35,0.99,Light Gray,Speckled,Fine,Many,Visible
+S011,3.58,1.39,1.07,Light Gray,Veined,Fine,Moderate,None
+S012,2.17,1.77,1.1,Beige,Speckled,Fine,Few,None
+S013,3.3,1.36,1.37,Dark Gray,Speckled,Medium,Few,Minor
+S014,3.29,1.97,1.24,Dark Gray,Marbled,Fine,Few,Visible
+S015,3.86,1.72,0.84,Beige,Speckled,Fine,Many,None
